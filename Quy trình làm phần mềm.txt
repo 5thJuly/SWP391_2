@@ -1,0 +1,7 @@
+Quy trình làm phần mềm gồm các công đoạn : {SDLC}
+
+1) requirements/specification
+2) design (OOP/DBI/Web design)
+3) implementation/development/coding
+4) testing
+5) deployment - cài đặt / bàn giao / đưa vào sử dụng
